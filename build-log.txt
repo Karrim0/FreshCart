@@ -1,0 +1,5 @@
+
+> react-vite-app@0.0.1 build
+> tsc && vite build
+
+src/lib/api.ts(4,24): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
